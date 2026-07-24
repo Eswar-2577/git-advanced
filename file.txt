@@ -2,3 +2,6 @@ line 1
 line 2
 line 3
 main line 4
+
+feature line A
+feature line B
