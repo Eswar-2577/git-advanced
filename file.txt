@@ -5,3 +5,4 @@ main line 4
 
 feature line A
 feature line B
+main line 5
